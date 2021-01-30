@@ -9,7 +9,7 @@ family of microcontrollers, including hacker friendly watches such
 as the Pine64 PineTime. Wasp-os includes a digital clock, a stopwatch,
 a step counter and a heart rate monitor. All of these, together with
 access to the MicroPython REPL for interactive tweaking, development
-and testing.
+and testing. 
 
 Wasp-os includes a robust bootloader based on the Adafruit NRF52
 Bootloader. It has been extended to make it robust for development on
